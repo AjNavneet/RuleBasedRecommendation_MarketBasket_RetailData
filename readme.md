@@ -1,4 +1,4 @@
-# Market Basket Analysis and Rule-Based Recommendation System on Retail Data
+# Market Basket Analysis and Rule Based Recommendation System on Retail Data
 
 
 ### Overview
